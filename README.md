@@ -8,11 +8,13 @@ Este projeto nasceu como um hub rápido para centralizar tudo que sair sobre o j
 - 🚧 Página inicial com seção "Lion Sin of Pride"
 - ⏳ Demais pecados e páginas de guia ainda não implementados
 - ✅ v1.0 - `index.html`, `style.css` & `README.md`criados
+- ✅ v1.1 -  Adição do Menu em HTML & `Menu.css`criados
 
 ---
 
 ## 📁 Estrutura atual
 ├── /assets/
 │ ├── css/──style.css
+│        └──menu.css
 ├── index.html # página inicial (única por enquanto)
 └── README.md
