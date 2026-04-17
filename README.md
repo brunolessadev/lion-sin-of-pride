@@ -10,7 +10,7 @@ Este projeto nasceu como um hub rápido para centralizar tudo que sair sobre o j
 
 **Status geral:** 🚧 Em desenvolvimento
 
-### 🔥 Versão atual: **v1.2**
+### 🔥 Versão atual: **v1.3**
 
 ---
 
@@ -58,6 +58,12 @@ Este projeto nasceu como um hub rápido para centralizar tudo que sair sobre o j
   * Início da estrutura multi-page
   * Criação de páginas separadas (ex: `characters.html`)
   * Base preparada para expansão estilo wiki
+
+### ✅ v1.3 — Ajustes visuais e refinamento
+
+* Aplicação de fundo em todas as páginas
+* Adição de favicon ao projeto
+* Correção de erros de linguagem (textos e consistência)
 
 ---
 
