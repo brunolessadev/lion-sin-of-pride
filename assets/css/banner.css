@@ -1,0 +1,57 @@
+/* ================= BANNER ================= */
+
+.banner {
+    height: 95vh;
+    background:
+        linear-gradient(to bottom, rgba(0,0,0,0.7), rgba(0,0,0,0.95)),
+        url("https://images5.alphacoders.com/131/1313163.jpeg") center/cover no-repeat;
+
+    display: flex;
+    align-items: center;
+    padding: 0 8%;
+}
+
+.banner-content {
+    max-width: 600px;
+    animation: fadeUp 1.2s ease;
+}
+
+.banner-content h2 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.banner-content p {
+    color: #b0b0b0;
+    margin-bottom: 30px;
+    line-height: 1.6;
+}
+
+.banner-content button {
+    padding: 12px 26px;
+    border: 1px solid #8b0000;
+    background: transparent;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.banner-content button:hover {
+    background: #8b0000;
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+
+    .banner {
+        justify-content: center;
+        text-align: center;
+        padding: 0 20px;
+        min-height: calc(100vh - 70px); /* menu menor no mobile */
+        margin-top: 70px;
+    }
+
+    .banner-content h2 {
+        font-size: 2rem;
+    }
+}

@@ -1,2 +1,29 @@
-* { box-sizing: border-box; }
-body { margin: 0; font-family: sans-serif; background: #f0f0f0; }
+/* ================= RESET ================= */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body.main {
+    font-family: 'Segoe UI', sans-serif;
+    background: #0b0b0c;
+    color: #e4e4e4;
+}
+
+/* SPA SUAVE */
+html {
+    scroll-behavior: smooth;
+}
+
+/* ANIMAÇÃO GLOBAL */
+@keyframes fadeUp {
+    from {
+        opacity: 0;
+        transform: translateY(40px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
