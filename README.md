@@ -10,7 +10,7 @@ Este projeto nasceu como um hub rápido para centralizar tudo que sair sobre o j
 
 **Status geral:** 🚧 Em desenvolvimento
 
-### 🔥 Versão atual: **v1.3**
+### 🔥 Versão atual: **v1.4**
 
 ---
 
@@ -65,11 +65,30 @@ Este projeto nasceu como um hub rápido para centralizar tudo que sair sobre o j
 * Adição de favicon ao projeto
 * Correção de erros de linguagem (textos e consistência)
 
+### ✅ v1.4 — Correções estruturais e responsividade
+
+* Footer:
+
+  * Correção de posicionamento no layout
+  * Melhor comportamento em diferentes alturas de conteúdo
+
+* Banner:
+
+  * Ajuste para ocupar corretamente 100% da área visível
+  * Correção de responsividade
+  * Centralização consistente em todos os dispositivos
+
+* Menu Mobile:
+
+  * Correção de bug visual (elementos aparecendo parcialmente)
+  * Ajuste do comportamento de abertura/fechamento
+  * Melhor adaptação para telas menores
+
 ---
 
 ## 📁 Estrutura do Projeto
 
-```bash
+```bash id="m3zk2p"
 /assets/
 │
 ├── css/

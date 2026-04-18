@@ -1,9 +1,15 @@
-/* ================= FOOTER ================= */
-
-.footer {
-    text-align: center;
-    padding: 9.9px;
-    background: #0b0b0c;
-    border-top: 1px solid #1a1a1a;
-    color: #777;
+.footer{
+  margin-top: auto;
+  width:100%; 
+  text-align:center;
+  padding:5px; 
+  background:#0b0b0c;
+  border-top:1px 
+  solid #8b0000; 
+  color:#777;
+  position:relative; 
+  z-index:2; 
+  font-size:.85rem;
+  position: fixed;
+bottom: 0;
 }
