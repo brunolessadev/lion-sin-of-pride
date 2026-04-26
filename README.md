@@ -14,6 +14,21 @@ Este projeto nasceu como um hub rápido para centralizar tudo que sair sobre o j
 
 ---
 
+## ⚠️ Status do Repositório
+
+> 🚨 **Este projeto será descontinuado nesta versão (HTML + CSS puro).**
+
+Uma nova versão mais avançada está em desenvolvimento em um repositório separado:
+
+👉 **Versão 2.0 (novo projeto):**
+🔗 https://lionsinofpride.pages.dev/
+🐙 https://github.com/brunolessadev/lion-sin-of-pride-v2
+
+
+> A versão 2.0 terá uma arquitetura mais moderna e escalável.
+
+---
+
 ## 📌 Progresso
 
 ### ✅ v1.0 — Base do projeto
@@ -88,7 +103,7 @@ Este projeto nasceu como um hub rápido para centralizar tudo que sair sobre o j
 
 ## 📁 Estrutura do Projeto
 
-```bash id="m3zk2p"
+```bash
 /assets/
 │
 ├── css/
